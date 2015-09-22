@@ -3,6 +3,7 @@ This is some text
 I really want to understand this.
 
 Why can't this come easy? Maybe I can actually contribue to IMB once I GET Git
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,5 @@ Here's sommore words
 
 
 And some more
+=======
+>>>>>>> Readme-Edits
